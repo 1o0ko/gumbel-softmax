@@ -4,10 +4,11 @@ The aim of this repository is to document my work on using Gumbel-Softmax for tr
 # Steps
 ## Coding
 - [x] Numpy version of drawing samples from Gumbel-Softmax distribution
-- [ ] PyTorch version of drawing samples from GS
+- [x] PyTorch version of drawing samples from GS
+- [x] Categorical VAE on MNIST
 - [ ] Toy example of GAN learning how to sample from continuous distribution
 - [ ] Toy example of GAN learning how to sample from discrete distribution
-- [ ] Categorical VAE on MNIST
+
 
 ## Reading 
 - [x] [Categorical Reparametrization with Gumbel-Softmax](https://arxiv.org/pdf/1611.01144.pdf)
